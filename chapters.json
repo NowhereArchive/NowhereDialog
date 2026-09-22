@@ -1,0 +1,292 @@
+[
+  {
+    "id": 0,
+    "name": "Prologue",
+    "type": "main"
+  },
+  {
+    "id": 1,
+    "name": "SALVA Chaos",
+    "type": "main"
+  },
+  {
+    "id": 2,
+    "name": "SALVA Chaos",
+    "type": "main"
+  },
+  {
+    "id": 3,
+    "name": "Unclaimed Crypt",
+    "type": "main"
+  },
+  {
+    "id": 4,
+    "name": "Unclaimed Crypt",
+    "type": "main"
+  },
+  {
+    "id": 5,
+    "name": "Keylan Square",
+    "type": "main"
+  },
+  {
+    "id": 6,
+    "name": "Keylan Square",
+    "type": "main"
+  },
+  {
+    "id": 7,
+    "name": "Carnival",
+    "type": "main"
+  },
+  {
+    "id": 8,
+    "name": "Carnival",
+    "type": "main"
+  },
+  {
+    "id": 9,
+    "name": "Rustfire Maxim",
+    "type": "main"
+  },
+  {
+    "id": 10,
+    "name": "Rustfire Maxim",
+    "type": "main"
+  },
+  {
+    "id": 11,
+    "name": "Conflagrant Poleis",
+    "type": "main"
+  },
+  {
+    "id": 12,
+    "name": "Conflagrant Poleis",
+    "type": "main"
+  },
+  {
+    "id": 13,
+    "name": "The Weak",
+    "type": "main"
+  },
+  {
+    "id": 14,
+    "name": "Undercurrents",
+    "type": "main"
+  },
+  {
+    "id": 15,
+    "name": "Undercurrents",
+    "type": "main"
+  },
+  {
+    "id": 16,
+    "name": "Aureate Regale",
+    "type": "main"
+  },
+  {
+    "id": 17,
+    "name": "Aureate Regale",
+    "type": "main"
+  },
+  {
+    "id": 18,
+    "name": "The Thorny Roads to Dawn",
+    "type": "main"
+  },
+  {
+    "id": 19,
+    "name": "The Thorny Roads to Dawn",
+    "type": "main"
+  },
+  {
+    "id": 20,
+    "name": "Pale Blue Firmament",
+    "type": "main"
+  },
+  {
+    "id": 21,
+    "name": "Pale Blue Firmament",
+    "type": "main"
+  },
+  {
+    "id": 30001,
+    "name": "MBCC Anecdotes",
+    "type": "event"
+  },
+  {
+    "id": 50000,
+    "name": "Raging Sands",
+    "type": "event"
+  },
+  {
+    "id": 50003,
+    "name": "Dreamy Bubble",
+    "type": "event"
+  },
+  {
+    "id": 50014,
+    "name": "Night of Wonders",
+    "type": "event"
+  },
+  {
+    "id": 50016,
+    "name": "Beyond DisCars!",
+    "type": "event"
+  },
+  {
+    "id": 50018,
+    "name": "Dragon & Isle of Sky",
+    "type": "event"
+  },
+  {
+    "id": 50019,
+    "name": "The Phantom of the Mist",
+    "type": "event"
+  },
+  {
+    "id": 50022,
+    "name": "Insatiable Fiesta",
+    "type": "event"
+  },
+  {
+    "id": 50025,
+    "name": "Rain Burst",
+    "type": "event"
+  },
+  {
+    "id": 50027,
+    "name": "Flora Unfurl",
+    "type": "event"
+  },
+  {
+    "id": 50040,
+    "name": "Velvety Susurration",
+    "type": "event"
+  },
+  {
+    "id": 50045,
+    "name": "Quixotic Troupe",
+    "type": "event"
+  },
+  {
+    "id": 50050,
+    "name": "Toybox Terror",
+    "type": "event"
+  },
+  {
+    "id": 50055,
+    "name": "Ditty Nightsong",
+    "type": "event"
+  },
+  {
+    "id": 50062,
+    "name": "Into the Blue",
+    "type": "event"
+  },
+  {
+    "id": 50070,
+    "name": "Glitchwave Nihil",
+    "type": "event"
+  },
+  {
+    "id": 50078,
+    "name": "Verdant Promises",
+    "type": "event"
+  },
+  {
+    "id": 50080,
+    "name": "Veiled in Violet Vagary",
+    "type": "event"
+  },
+  {
+    "id": 50081,
+    "name": "Perfect Vote",
+    "type": "event"
+  },
+  {
+    "id": 50082,
+    "name": "Eclipse of Eternal Vows",
+    "type": "event"
+  },
+  {
+    "id": 50084,
+    "name": "Honeyed Night",
+    "type": "event"
+  },
+  {
+    "id": 50085,
+    "name": "Scourge: Eclipsed Scar",
+    "type": "event"
+  },
+  {
+    "id": 50086,
+    "name": "Shattered Blade",
+    "type": "event"
+  },
+  {
+    "id": 50087,
+    "name": "Beacon of the Unsouled",
+    "type": "event"
+  },
+  {
+    "id": 50088,
+    "name": "When Rain Meets Gunfire",
+    "type": "event"
+  },
+  {
+    "id": 50089,
+    "name": "Witchwoven Folio",
+    "type": "event"
+  },
+  {
+    "id": 50090,
+    "name": "Silent Snow, Hidden Plum",
+    "type": "event"
+  },
+  {
+    "id": 50091,
+    "name": "The Rail Runs Dark",
+    "type": "event"
+  },
+  {
+    "id": 50092,
+    "name": "Murphy's Misadventures",
+    "type": "event"
+  },
+  {
+    "id": 50093,
+    "name": "Heartbeats ON AIR",
+    "type": "event"
+  },
+  {
+    "id": 52001,
+    "name": "Ode To Sun",
+    "type": "event"
+  },
+  {
+    "id": 60001,
+    "name": "Freedom Ocean",
+    "type": "event"
+  },
+  {
+    "id": 60003,
+    "name": "jojo",
+    "type": "event"
+  },
+  {
+    "id": 60005,
+    "name": "Tales of the Lost Night",
+    "type": "event"
+  },
+  {
+    "id": 70045,
+    "name": "No Gang's Land",
+    "type": "event"
+  },
+  {
+    "id": 70046,
+    "name": "Exodus: Auric Sanctuary",
+    "type": "event"
+  }
+]
