@@ -1,0 +1,1 @@
+{"id":117,"chapter_id":0,"scene_id":3,"steps":[{"step":1,"content":"说着，“他”将手按在操作面板上，系统随之启动。","female_content":"说着，“她”将手按在操作面板上，系统随之启动。","style":3,"background":16,"log_type":1},{"step":2,"speaker":"系统","content":"身份确认——${PlayerName}，MBCC局长——权限加载——准入许可——","voice":["vo_cgplot_109010"],"voice_bank":"vo_cgplot_00","style":1,"background":16,"log_type":1}]}

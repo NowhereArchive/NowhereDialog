@@ -1,0 +1,1 @@
+{"id":117,"chapter_id":0,"scene_id":3,"steps":[{"step":1,"content":"そう言いながら、「彼」の手を操作盤に置いて、システムを起動した。","female_content":"そう言いながら、「彼女」の手を操作盤に置いて、システムを起動した。","style":3,"background":16,"log_type":1},{"step":2,"speaker":"システム","content":"生体認証——${PlayerName}、MBCC局長——権限読み込み中——通行を許可します——","voice":["vo_cgplot_109010"],"voice_bank":"vo_cgplot_00","style":1,"background":16,"log_type":1}]}

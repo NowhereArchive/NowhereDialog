@@ -1,0 +1,1 @@
+{"id":117,"chapter_id":0,"scene_id":3,"steps":[{"step":1,"content":"'그'가 말을 하며, 패널에 손을 올리자 시스템이 가동됐다.","female_content":"'그녀'가 말을 하며, 패널에 손을 올리자 시스템이 가동됐다.","style":3,"background":16,"log_type":1},{"step":2,"speaker":"시스템","content":"신분 확인 완료. MBCC 국장 ${PlayerName}, 권한 로딩… 진입 허가…","voice":["vo_cgplot_109010"],"voice_bank":"vo_cgplot_00","style":1,"background":16,"log_type":1}]}
