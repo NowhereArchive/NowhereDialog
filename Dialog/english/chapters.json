@@ -290,6 +290,36 @@
     "type": "event"
   },
   {
+    "id": 21000101,
+    "name": "Illusory Moon Rising",
+    "type": "Eternal Nightmare"
+  },
+  {
+    "id": 21000102,
+    "name": "Hunting Shade",
+    "type": "Eternal Nightmare"
+  },
+  {
+    "id": 21000103,
+    "name": "Heart of Eternity",
+    "type": "Eternal Nightmare"
+  },
+  {
+    "id": 21000104,
+    "name": "Embers of Long Night",
+    "type": "Eternal Nightmare"
+  },
+  {
+    "id": 21000105,
+    "name": "Echoless Dive",
+    "type": "Eternal Nightmare"
+  },
+  {
+    "id": 21000106,
+    "name": "Abyssal Tentaculum",
+    "type": "Eternal Nightmare"
+  },
+  {
     "id": 220100,
     "name": "City Beyond Tribulation I",
     "type": "Eternal Nightmare II"
